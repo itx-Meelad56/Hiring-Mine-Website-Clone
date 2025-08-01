@@ -493,12 +493,6 @@ header .navbar {
     color: rgb(77, 59, 219);
 }
 
-/* position: relative;
-    background: linear-gradient(180deg, #4d3bdb 0%, #9747ff 100%);
-    width: 100%;
-    padding: 80px 0 50px; */
-
-
 /* footer styling */
 
 .footer {
@@ -782,12 +776,12 @@ a {
     }
 }
 
-    @media (max-width:400px) {
-        .hero-search-input {
-            width: 300px;
-        }
-
-        .sucess-img img {
-            padding: 180px 0 50px 0;
-        }
+@media (max-width:400px) {
+    .hero-search-input {
+        width: 300px;
     }
+
+    .sucess-img img {
+        padding: 180px 0 50px 0;
+    }
+}
