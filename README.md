@@ -57,6 +57,6 @@ Through this project, I improved:
 **Meelad Raza**  
 
 - [GitHub](https://github.com/itx-meelad56)
-- [LinkedIn](https://www.linkedin.com/)
+- [LinkedIn](https://www.linkedin.com/in/meelad-raza-736480339/)
 
 ---
